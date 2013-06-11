@@ -21,6 +21,7 @@ h3,h4 {
 
 .navbar .nav>li>a, .navbar .nav>li>a:hover{
     text-shadow: none;
+    color: #777;
 }
 .navbar .brand {
     text-shadow: none;
